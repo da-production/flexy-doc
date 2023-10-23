@@ -1,0 +1,47 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 146 150" width="146" height="150">
+	<title>6397213-ai</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,62.251,-62.23,0,136.8,9.645)">
+			<stop offset="0" stop-color="#7ed4ef"/>
+			<stop offset="1" stop-color="#0169c2"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,62.251,-62.23,0,66.583,80.622)">
+			<stop offset="0" stop-color="#7ed4ef"/>
+			<stop offset="1" stop-color="#0169c2"/>
+		</linearGradient>
+		<linearGradient id="g3" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,62.251,-62.23,0,136.8,80.622)">
+			<stop offset="0" stop-color="#fd3e40"/>
+			<stop offset="1" stop-color="#960e7a"/>
+		</linearGradient>
+		<linearGradient id="g4" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,62.251,-62.23,0,66.583,9.645)">
+			<stop offset="0" stop-color="#fd3e40"/>
+			<stop offset="1" stop-color="#960e7a"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+		.s3 { fill: url(#g4) } 
+	</style>
+	<g id="OBJECTS">
+		<g id="&lt;Group&gt;">
+			<g id="&lt;Group&gt;">
+			</g>
+			<g id="&lt;Group&gt;">
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="s0" d="m119.3 68.9l-41.7-41.7c-6.5-6.5-1.9-17.6 7.3-17.6h41.6c5.7 0 10.3 4.6 10.3 10.3v41.7c0 9.1-11.1 13.7-17.5 7.3z"/>
+				</g>
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="s1" d="m49 139.8l-41.6-41.6c-6.5-6.5-1.9-17.6 7.2-17.6h41.7c5.7 0 10.3 4.6 10.3 10.3v41.7c0 9.1-11.1 13.7-17.6 7.2z"/>
+				</g>
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="s2" d="m119.3 139.8l-41.7-41.6c-6.5-6.5-1.9-17.6 7.3-17.6h41.6c5.7 0 10.3 4.6 10.3 10.3v41.7c0 9.1-11.1 13.7-17.5 7.2z"/>
+				</g>
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="s3" d="m49 68.9l-41.6-41.7c-6.5-6.5-1.9-17.6 7.2-17.6h41.7c5.7 0 10.3 4.6 10.3 10.3v41.7c0 9.1-11.1 13.7-17.6 7.3z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

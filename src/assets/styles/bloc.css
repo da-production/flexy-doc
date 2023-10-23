@@ -1,0 +1,28 @@
+.bloc{
+    @apply
+    mb-9 space-y-3
+    ;
+    p{
+        @apply
+            paragraph
+        ;
+    }
+    h1{
+        @apply heading-1;
+    }
+    h2{
+        @apply heading-2;
+    }
+    h3{
+        @apply heading-3;
+    }
+    h4{
+        @apply heading-4;
+    }
+    h5{
+        @apply heading-5;
+    }
+    h6{
+        @apply heading-6;
+    }
+}

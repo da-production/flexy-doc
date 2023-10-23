@@ -1,0 +1,20 @@
+:not(pre) > code[class*="language-"], pre[class*="language-"]{
+    @apply
+        bg-slate-800 border-slate-950 shadow-inner border
+    ;
+}
+.token.attr-name, .token.deleted, .token.namespace, .token.tag{
+    @apply
+        text-[#00ffcf];
+    ;
+}
+.token.attr-value, .token.char, .token.regex, .token.string, .token.variable{
+    @apply
+        text-sky-400;
+    ;
+}
+.token.cdata, .token.comment, .token.doctype, .token.prolog{
+    @apply
+        text-slate-500
+    ;
+}

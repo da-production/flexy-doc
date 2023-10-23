@@ -1,0 +1,68 @@
+/* light mode */
+.headings-default{
+    @apply text-slate-700 font-medium;
+}
+.heading-1{
+    @apply
+        headings-default text-[32px] 
+    ;
+}
+
+.heading-2{
+    @apply
+        headings-default text-[28px] 
+    ;
+}
+
+.heading-3{
+    @apply
+        headings-default text-[24px] 
+    ;
+}
+
+.heading-4{
+    @apply
+        headings-default text-[20px] 
+    ;
+}
+
+.heading-5{
+    @apply
+        headings-default text-[18px] 
+    ;
+}
+
+.heading-6{
+    @apply
+        headings-default text-[16px] 
+    ;
+}
+
+.heading-xs{
+    @apply text-sm font-medium text-sky-500;
+}
+
+.paragraph{
+    @apply
+        text-slate-600 text-base mb-3
+    ;
+}
+.sky-marker{
+    @apply
+    bg-sky-100 underline decoration-[3px] decoration-sky-300 text-sky-600
+    ;
+}
+/* Left Nav Menu */
+.left-nav-menu-a{
+    @apply
+        block w-full pl-3.5 
+        before:pointer-events-none before:absolute before:-left-1 before:top-1/2 before:h-1.5 before:w-1.5 
+        before:-translate-y-1/2 before:rounded-full text-slate-500 before:hidden before:bg-slate-300 hover:text-slate-600 
+        hover:before:block dark:text-slate-400 dark:before:bg-slate-700 dark:hover:text-slate-300
+    ;
+}
+.left-nav-menu-a.active{
+    @apply
+        font-semibold text-sky-500 before:bg-sky-500 !important
+    ;
+}
